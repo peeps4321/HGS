@@ -1,0 +1,28 @@
+if check_inst1.image_index == 1
+{
+	a = true
+}
+
+if check_inst2.image_index == 1
+{
+	b = true
+}
+
+if check_inst1.image_index == 0
+{
+	a = false
+}
+
+if check_inst2.image_index == 0
+{
+	b = false
+}
+
+
+//show_debug_message("b ")
+//show_debug_message(b)
+//show_debug_message("a ")
+//show_debug_message(a)
+
+A AND B ARE VARIABLES, CHANGE AND ADD AS MANY AS NEEDED
+COMES IN PAIRS, IF 1 AND IF 0

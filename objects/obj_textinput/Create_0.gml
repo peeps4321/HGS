@@ -1,0 +1,2 @@
+text = "";
+keyboard_string = "";
